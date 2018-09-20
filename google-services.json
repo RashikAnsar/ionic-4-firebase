@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "173787679491",
+    "firebase_url": "https://ion4-fire.firebaseio.com",
+    "project_id": "ion4-fire",
+    "storage_bucket": "ion4-fire.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173787679491:android:45b4b1c3d9d022a9",
+        "android_client_info": {
+          "package_name": "com.angularfirebase.ionfire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "173787679491-nrietior2r7pmbbgjtgm6cp52s1k7rb0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhAUIu1Lnwxq603yvwUgmnorzJwVu5cKs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
